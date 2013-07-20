@@ -1,0 +1,10 @@
+F:\Sharing\Bill\My Dropbox\Development\c#\DiskUtilities\bin\Debug\Disk Utilities.exe
+F:\Sharing\Bill\My Dropbox\Development\c#\DiskUtilities\bin\Debug\Disk Utilities.pdb
+F:\Sharing\Bill\My Dropbox\Development\c#\DiskUtilities\obj\Debug\Disk Utilities.csprojResolveAssemblyReference.cache
+F:\Sharing\Bill\My Dropbox\Development\c#\DiskUtilities\obj\Debug\Disk_Utilities.AboutForm.resources
+F:\Sharing\Bill\My Dropbox\Development\c#\DiskUtilities\obj\Debug\Disk_Utilities.MainForm.resources
+F:\Sharing\Bill\My Dropbox\Development\c#\DiskUtilities\obj\Debug\Disk_Utilities.Properties.Resources.resources
+F:\Sharing\Bill\My Dropbox\Development\c#\DiskUtilities\obj\Debug\Disk_Utilities.SettingsForm.resources
+F:\Sharing\Bill\My Dropbox\Development\c#\DiskUtilities\obj\Debug\Disk Utilities.csproj.GenerateResource.Cache
+F:\Sharing\Bill\My Dropbox\Development\c#\DiskUtilities\obj\Debug\Disk Utilities.exe
+F:\Sharing\Bill\My Dropbox\Development\c#\DiskUtilities\obj\Debug\Disk Utilities.pdb
